@@ -20,7 +20,6 @@ The game was developed to run directly on macOS's **Terminal**, with no external
    "'bash
    cd ~/Path/To/To/Folder
    execute the game: python3 snake.py
-   use ↑ ↓ ← → for control
-sorry, I can't get it for Windows (try downloading the terminal for Windows and running.py in the terminal)
+ use ↑ ↓ ← → for control
+   sorry, I can't get it for Windows (try downloading the terminal for Windows and running.py in the terminal)
 if it doesn't work I'm sorry soon the game will be on the website and you play there and learn here ;)
-
