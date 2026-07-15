@@ -1,6 +1,6 @@
 # 🐍 Snake Game - Python from Scratch
 
-> **Author:** Gin  
+> **Author:** mr.sixseven
 > **Focus:** Python Learning 
 > **Environment:** macOS Monterey (Terminal)  
 > **Status:** Version 1.0 (Functional)
