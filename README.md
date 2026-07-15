@@ -7,7 +7,6 @@
 
 ## 🎯 Project Objectivey** 
 - Data structures (Lists, Tuples).
-This repository documents my journey migrating from music to the **Cybersecurit
 - Game loop and flow control ('while', 'break').
 - State manipulation and collision.
 - Automation and interaction via terminal ('curses').
